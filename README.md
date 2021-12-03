@@ -17,4 +17,7 @@ Quem quiser pode usar à vontade.
 
 [Tradução "Não oficial" porquê](http://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html)
 
+**Conheça outros templates desenvolvidos ou em desenvolvimento abaixo:**
+
+[Acesse meu site: ](https://www.aondenet.com)
 
